@@ -13,7 +13,7 @@
       "type": "Feature",
       "properties": { "name": "Niveau 0", "floor": 0 },
       "geometry": {
-        "type": "Polygon",
+        "type": "Polygon",                     
         "coordinates": [[[12.498,41.899],[12.503,41.899],[12.503,41.903],[12.498,41.903],[12.498,41.899]]]
       }
     },
