@@ -436,4 +436,3 @@ export default {
 .floor-buttons button { padding:6px 8px; border:1px solid #ddd; background:#fff; cursor:pointer; border-radius:4px }
 .floor-buttons button.active { background:#2171b5; color:#fff; border-color:#1b5fa3 }
 </style>
-</style>
