@@ -378,9 +378,9 @@ export default {
 }
 
 .back {
-  position: absolute;
-  top: 20px;
-  right: 20px;
+  position: static;
+  top: auto;
+  right: auto;
   background: #2171b5;
   color: white;
   border: none;
@@ -389,10 +389,12 @@ export default {
   cursor: pointer;
   font-size: 14px;
   z-index: 10;
+  margin-bottom: 20px;
+  width: 100%;
 }
 
 h1 {
-  margin-top: 50px;
+  margin: 0 0 20px 0;
   color: #333;
   font-size: 24px;
 }
